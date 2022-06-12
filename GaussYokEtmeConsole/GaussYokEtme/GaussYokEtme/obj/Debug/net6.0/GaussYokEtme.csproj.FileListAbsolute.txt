@@ -1,0 +1,15 @@
+C:\Users\10123467\Desktop\Kadir\Proje\Deneme\GaussYokEtmeConsole\GaussYokEtme\GaussYokEtme\bin\Debug\net6.0\GaussYokEtme.exe
+C:\Users\10123467\Desktop\Kadir\Proje\Deneme\GaussYokEtmeConsole\GaussYokEtme\GaussYokEtme\bin\Debug\net6.0\GaussYokEtme.deps.json
+C:\Users\10123467\Desktop\Kadir\Proje\Deneme\GaussYokEtmeConsole\GaussYokEtme\GaussYokEtme\bin\Debug\net6.0\GaussYokEtme.runtimeconfig.json
+C:\Users\10123467\Desktop\Kadir\Proje\Deneme\GaussYokEtmeConsole\GaussYokEtme\GaussYokEtme\bin\Debug\net6.0\GaussYokEtme.dll
+C:\Users\10123467\Desktop\Kadir\Proje\Deneme\GaussYokEtmeConsole\GaussYokEtme\GaussYokEtme\bin\Debug\net6.0\GaussYokEtme.pdb
+C:\Users\10123467\Desktop\Kadir\Proje\Deneme\GaussYokEtmeConsole\GaussYokEtme\GaussYokEtme\obj\Debug\net6.0\GaussYokEtme.csproj.AssemblyReference.cache
+C:\Users\10123467\Desktop\Kadir\Proje\Deneme\GaussYokEtmeConsole\GaussYokEtme\GaussYokEtme\obj\Debug\net6.0\GaussYokEtme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10123467\Desktop\Kadir\Proje\Deneme\GaussYokEtmeConsole\GaussYokEtme\GaussYokEtme\obj\Debug\net6.0\GaussYokEtme.AssemblyInfoInputs.cache
+C:\Users\10123467\Desktop\Kadir\Proje\Deneme\GaussYokEtmeConsole\GaussYokEtme\GaussYokEtme\obj\Debug\net6.0\GaussYokEtme.AssemblyInfo.cs
+C:\Users\10123467\Desktop\Kadir\Proje\Deneme\GaussYokEtmeConsole\GaussYokEtme\GaussYokEtme\obj\Debug\net6.0\GaussYokEtme.csproj.CoreCompileInputs.cache
+C:\Users\10123467\Desktop\Kadir\Proje\Deneme\GaussYokEtmeConsole\GaussYokEtme\GaussYokEtme\obj\Debug\net6.0\GaussYokEtme.dll
+C:\Users\10123467\Desktop\Kadir\Proje\Deneme\GaussYokEtmeConsole\GaussYokEtme\GaussYokEtme\obj\Debug\net6.0\refint\GaussYokEtme.dll
+C:\Users\10123467\Desktop\Kadir\Proje\Deneme\GaussYokEtmeConsole\GaussYokEtme\GaussYokEtme\obj\Debug\net6.0\GaussYokEtme.pdb
+C:\Users\10123467\Desktop\Kadir\Proje\Deneme\GaussYokEtmeConsole\GaussYokEtme\GaussYokEtme\obj\Debug\net6.0\GaussYokEtme.genruntimeconfig.cache
+C:\Users\10123467\Desktop\Kadir\Proje\Deneme\GaussYokEtmeConsole\GaussYokEtme\GaussYokEtme\obj\Debug\net6.0\ref\GaussYokEtme.dll
